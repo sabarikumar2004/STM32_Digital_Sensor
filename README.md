@@ -84,11 +84,16 @@ Vibration Detected
 
 Digital_sensor/
 ├── Images/
+|
 │   ├── thumbnail.png
 │   └── Hardware.png
+|
 ├── Inc/
+|
 ├── Src/
+|
 ├── Startup/
+|
 └── README.md
 
 ## Author
