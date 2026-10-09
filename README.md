@@ -10,6 +10,7 @@ The STM32 reads the digital output of a vibration sensor. When vibration is dete
 
 ![STM32 Digital Sensor Project](Images/thumbnail.png)
 
+
 ## Hardware Used
 
 * STM32F103C8T6 Blue Pill
@@ -82,19 +83,19 @@ Vibration Detected
 * Microcontroller programming using ST-LINK
 * Serial debugging using PuTTY
 
+## Project Structure
+
+```text
 Digital_sensor/
 ├── Images/
-|
 │   ├── thumbnail.png
 │   └── Hardware.png
-|
 ├── Inc/
-|
 ├── Src/
-|
 ├── Startup/
-|
 └── README.md
+```
+
 
 ## Author
 
